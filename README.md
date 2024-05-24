@@ -23,8 +23,8 @@ The script is organized into several functions, each responsible for a specific 
 
 To run the program, follow these steps:
 1. Ensure you have Bash installed on your system.
-2. Clone the repository to your local machine: `git clone <(https://github.com/saadga2003/mini-project.git)>`
-3. Navigate to the project directory: `cd mini-project`
+2. Clone the repository to your local machine: `git clone https://github.com/saadga2003/mini-project.git`
+3. Navigate to the project directory: `cd mini-project/`
 4. Make the script executable: `chmod +x todo.sh`
 5. Run the script with one of the following actions:
    - `./todo.sh create`: Create a new task.
